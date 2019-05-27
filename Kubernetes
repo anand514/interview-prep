@@ -1,0 +1,3 @@
+# Kubernetes commands
+
+## commands for newbies--https://blog.openshift.com/oc-command-newbies/
