@@ -1,0 +1,7 @@
+https://www.mulesoft.com/tcat/tomcat-ssl
+
+SSL Basics
+The SSL protocol aims to provide solutions to two simple security problems:
+
+How can we securely transmit data between two parties in such a way that only the two parties can read it?
+How can one (or more) of the parties involved prove that they are actually the entity we want to grant the ability to decrypt our encrypted transmission?
